@@ -1,0 +1,11 @@
+nit,nombreComercio,actividad,contacto,direccion,barrio,ciudad,horarioAtencion,fechaCreacion,id
+123222111,D1,Supermercado,123,Calle 1,Centro,Medellin,8-8,2026-04-24,1
+20022222222,McDonalds,Restaurante,3001110002,Av 80,Laureles,Medellin,10-11,2026-04-24,2
+20033333333,Terpel,Gasolinera,3001110003,Autopista Sur,Industriales,Medellin,24h,2026-04-24,3
+2004444444,Metro Medellin,Transporte publico,3001110004,Estacion Central,Centro,Medellin,5-23,2026-04-24,4
+20055555555,EPM,Servicios publicos,3001110005,Calle 44,Centro,Medellin,8-5,2026-04-24,5
+211033306,Inmobiliaria Antioquia,Arriendo,3001110006,Calle 50,El Poblado,Medellin,8-6,2026-04-24,6
+2011111107,Cine Colombia,Entretenimiento,3001110007,Centro Comercial,Envigado,Medellin,10-12,2026-04-24,7
+2008999992,Netflix,Streaming,3001110008,Online,Virtual,Internet,24h,2026-04-24,8
+22221111009,Zara,Ropa,3001110009,Mall,El Poblado,Medellin,10-9,2026-04-24,9
+202211456610,Amazon,Ecommerce,3001110010,Online,Virtual,Internet,24h,2026-04-24,10

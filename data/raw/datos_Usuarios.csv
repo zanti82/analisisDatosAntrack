@@ -1,0 +1,7 @@
+nombre,tipoDocumento,documento,edad,genero,correo,contacto,presupMensual,fechaRegistro,id
+Juan,CEDULA,12345,25,M,juan@mail.com,300123456,1000000.0,2026-04-24,1
+Juan,CEDULA,12345,25,M,juan@mail.com,300123456,1000000.0,2026-04-24,2
+Carlos Ramirez,CEDULA,1001000111,28,M,carlos@mail.com,3001111111,1500000.0,2026-04-24,3
+Laura Gomez,CEDULA,1002222333,22,F,laura@mail.com,3002222222,900000.0,2026-04-24,4
+Andres Torres,PASAPORTE,AP10032211,35,M,andres@mail.com,3003333333,2500000.0,2026-04-24,5
+Maria Lopez,CEDULA,11541345004,30,F,maria@mail.com,3004444444,1800000.0,2026-04-24,6

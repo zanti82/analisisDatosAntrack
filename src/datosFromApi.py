@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 #petición a la API
-url = "http://localhost:8080/anttrackapi/v1/gastos"  
+url = "http://3.134.93.54:8080/anttrackapi/v1/gastos"  
 response = requests.get(url)
 
 # Verificamos que la petición fue exitosa
@@ -25,5 +25,5 @@ print(df.head())
 
 carpeta_raw = 'data/raw'
 #cambiamos el nombre y la direcion api para guardar datos
-df.to_csv(f'{carpeta_raw}/datos_Gastos.csv', index=False)
+df.to_csv(f'{carpeta_raw}/datos_gasto.csv', index=False)
 
